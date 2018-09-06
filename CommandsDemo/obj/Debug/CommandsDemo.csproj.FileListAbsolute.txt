@@ -1,0 +1,15 @@
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\bin\Debug\CommandsDemo.exe.config
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\bin\Debug\CommandsDemo.exe
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\bin\Debug\CommandsDemo.pdb
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo.csprojAssemblyReference.cache
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\App.g.cs
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo_MarkupCompile.cache
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo_MarkupCompile.lref
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\MainWindow.baml
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo.g.resources
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo.Properties.Resources.resources
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo.csproj.GenerateResource.cache
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo.exe
+C:\Users\Illya\Downloads\WPF\12_06.09.2018_\CommandsDemo\CommandsDemo\obj\Debug\CommandsDemo.pdb
